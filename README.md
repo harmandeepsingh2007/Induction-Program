@@ -41,7 +41,12 @@ The day concluded on a reflective note, reinforcing the message that technical k
 # Day-4
 Induction Program Day 4
 
+Day 4 started with Peer to Peer classes.
+Our seniors 
+
+
 The day began with an insightful expert lecture by Dr. Priyadarshini on Universal Human Values in the auditorium, guiding students towards a more conscious and value-based life. She describes us real meaning of Happiness and Prosperity.
 
 The Causmic Club team also showcased their vibrant initiatives, giving freshers a glimpse into creativity, leadership, and innovation. 
 
+# Day-5
