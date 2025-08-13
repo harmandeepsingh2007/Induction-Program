@@ -66,3 +66,18 @@ The final session of the day was led by Prof. Gagandeep Kaur, who gave an introd
 
 # Day-6
 On Day 6 of the induction program, an informative session was conducted by Prof. Lakhvir Singh Khanna, who introduced the students to the SWAYAM platform—an initiative by the Government of India aimed at providing free online courses across various disciplines.Prof. Khanna emphasized the importance of continuous learning and urged students to take advantage of the high-quality content available for free. The session was highly engaging and encouraged students to explore SWAYAM as a valuable academic resource throughout their college journey.
+
+# Day-7
+Day 7 of the induction program featured a series of important lectures from senior faculty members and administrative heads. These sessions were designed to familiarize students with essential academic procedures, student welfare services, and the college’s examination system.
+
+1. Lecture by Dr. Amit Kamra (Incharge – DMC)
+
+The day began with an informative session by Dr. Amit Kamra, who serves as the Incharge of the DMC. He explained the role of DMC. 
+
+2. Lecture by Dr. Parinder Singh (Dean – Student Welfare)
+
+Following that, Dr. Parinder Singh, Dean of Student Welfare, addressed the students. He highlighted the various support systems and welfare initiatives provided by the institution to ensure students' well-being. These included counseling services, student clubs, grievance redressal mechanisms, and extracurricular opportunities. He encouraged students to actively participate in campus life and assured them of continuous support throughout their academic journey.
+
+3. Lecture by Dr. Randhir Singh (On Conduct of Examination)
+
+The final lecture of the day was delivered by Dr. Randhir Singh, who spoke about the rules and regulations related to the conduct of examinations. He explained the examination pattern, grading system, internal assessments, and code of conduct during exams. He also emphasized the importance of academic integrity and maintaining discipline during assessments.
