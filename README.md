@@ -50,3 +50,16 @@ The day began with an insightful expert lecture by Dr. Priyadarshini on Universa
 The Causmic Club team also showcased their vibrant initiatives, giving freshers a glimpse into creativity, leadership, and innovation.
 
 # Day-5
+Day 5 of the induction program featured a series of introductory lectures delivered by esteemed faculty members from various departments. These sessions aimed to familiarize the students with foundational subjects and provide an overview of the college environment.
+
+1. Chemistry Lecture by Prof. Mandeep Kaur
+
+The day began with an insightful lecture on Chemistry delivered by Prof. Mandeep Kaur. She provided an introduction to the subject, outlining its relevance to engineering and its practical applications in various fields. The session helped students understand the role of chemistry in their academic curriculum and future careers.
+
+2. English Lecture by Prof. Nisha
+
+Prof. Nisha conducted a lecture on English. She gave a brief overview of  th subject, emphasizing the importance of communication skills in academic and professional life. To build confidence and encourage interaction, she also invited students to introduce themselves, fostering a friendly and engaging classroom atmosphere.
+
+3. Institutional Orientation by Prof. Gagandeep Kaur
+
+The final session of the day was led by Prof. Gagandeep Kaur, who gave an introduction to Guru Nanak Dev Engineering College. She shared the history, mission, and vision of the institution, highlighting the various facilities, departments, and opportunities available to students. Her session helped the newcomers feel more connected to the institution and understand its values and legacy.
