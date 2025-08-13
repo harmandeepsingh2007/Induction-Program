@@ -43,6 +43,8 @@ Induction Program Day 4
 
 The fourth day of the induction program began with an engaging peer-to-peer learning session. In this session, our seniors took the initiative to teach us the basics of C++ programming, making the learning experience both relatable and interactive.
 
+A lecture on Basic Electrical and Electronics Engineering (BEEE) was conducted by Prof. Balwinder Singh. The session aimed to introduce first-year students to the fundamental concepts of electrical and electronics engineering, laying a strong foundation for their upcoming coursework. He delivered the lecture in an interactive and easy-to-understand manner, encouraging student participation and curiosity.
+
 The day began with an insightful expert lecture by Dr. Priyadarshini on Universal Human Values in the auditorium, guiding students towards a more conscious and value-based life. She describes us real meaning of Happiness and Prosperity.
 
 The Causmic Club team also showcased their vibrant initiatives, giving freshers a glimpse into creativity, leadership, and innovation.
