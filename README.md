@@ -37,3 +37,11 @@ The highlight of the day was the address by the Chief Guest, Sardar Gurcharan Si
 The with an enlightening session by Dr. Jaswinder Singh, a Siksharatan Awardee, who captivated the audience with live experiments and innovative approaches to teaching and learning. His interactive method of presentation brought an engaging and joyful learning experience for the students, leaving a lasting impression.
 Following this, the next session was delivered by Dr. Priyadarshini, an esteemed expert in Universal Human Values. She spoke about the critical role of ethics and values in the field of engineering, education, and professional practice. Her session helped the students understand the importance of empathy, responsibility, and integrity in shaping a meaningful career and life.
 The day concluded on a reflective note, reinforcing the message that technical knowledge, when guided by human values, leads to true success and growth.
+
+# Day-4
+Induction Program Day 4
+
+The day began with an insightful expert lecture by Dr. Priyadarshini on Universal Human Values in the auditorium, guiding students towards a more conscious and value-based life. She describes us real meaning of Happiness and Prosperity.
+
+The Causmic Club team also showcased their vibrant initiatives, giving freshers a glimpse into creativity, leadership, and innovation. 
+
