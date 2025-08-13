@@ -88,12 +88,11 @@ Day 8 of the induction program continued with subject orientation sessions aimed
 
 The day commenced with a lecture on Chemistry by Prof. Mandeep Kaur. She covered important introductory concepts and applications relevant to engineering students. Her session included:
 
-A quick review of basic chemical principles
+•A quick review of basic chemical principles
 
-Real-world applications of chemistry in engineering fields
+•Real-world applications of chemistry in engineering fields
 
-Importance of chemistry in solving technical and environmental challenges
-
+•Importance of chemistry in solving technical and environmental challenges
 
 The lecture was interactive, with students encouraged to ask questions and share their thoughts, helping to build a strong conceptual foundation.
 
@@ -101,11 +100,10 @@ The lecture was interactive, with students encouraged to ask questions and share
 
 The second session of the day was delivered by Prof. Nisha, who continued her introduction to the subject of English and Communication Skills. She emphasized:
 
-The role of English in academic and professional settings
+•The role of English in academic and professional settings
 
-Importance of communication, presentation, and interpersonal skills
+•Importance of communication, presentation, and interpersonal skills
 
-A continuation of student self-introductions to build confidence and class interaction
-
+•A continuation of student self-introductions to build confidence and class interaction
 
 Her engaging teaching style created a comfortable atmosphere for students to participate and express themselves.
