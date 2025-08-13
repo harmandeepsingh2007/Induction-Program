@@ -63,3 +63,6 @@ Prof. Nisha conducted a lecture on English. She gave a brief overview of  th sub
 3. Institutional Orientation by Prof. Gagandeep Kaur
 
 The final session of the day was led by Prof. Gagandeep Kaur, who gave an introduction to Guru Nanak Dev Engineering College. She shared the history, mission, and vision of the institution, highlighting the various facilities, departments, and opportunities available to students. Her session helped the newcomers feel more connected to the institution and understand its values and legacy.
+
+# Day-6
+On Day 6 of the induction program, an informative session was conducted by Prof. Lakhvir Singh Khanna, who introduced the students to the SWAYAM platform—an initiative by the Government of India aimed at providing free online courses across various disciplines.Prof. Khanna emphasized the importance of continuous learning and urged students to take advantage of the high-quality content available for free. The session was highly engaging and encouraged students to explore SWAYAM as a valuable academic resource throughout their college journey.
