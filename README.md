@@ -19,6 +19,12 @@ The entire day was a beautiful blend of motivation,interaction and institutional
 
 # Day-2
 Day 2 of the induction program at GNDEC was both educational and engaging. The sessions highlighted the importance of maintaining physical wellness through proper nutrition and encouraged students to immerse themselves in campus life through co-curricular involvement.
+Session 1: Expert Talk by Mr. Arashdeep Singh
+
+Topic: "Food: A Pivotal Role in Student's Overall Wellness"
+
+The second day of the Induction Program at Guru Nanak Dev Engineering College commenced with an insightful and thought-provoking lecture by Mr. Arashdeep Singh, an expert in the field of nutrition and wellness. His session focused on the integral connection between food habits and a student's physical, mental, and emotional well-being.
+
 # Day-3
 On August 2, 2025, Guru Nanak Dev Engineering College successfully conducted Day 3 of the Student Induction Program for the first-year students of Information Technology and Computer Science and Engineering branches. The event was held in the college auditorium and witnessed a series of insightful and engaging sessions aimed at nurturing the academic and ethical foundation of the newly admitted students.
 The highlight of the day was the address by the Chief Guest, Sardar Gurcharan Singh Grewal, member  Shiromani Gurdwara Parbandhak Committee (SGPC) and a respected member of the Nankana Sahib Education Trust. His motivational words encouraged students to stay grounded in values while aspiring for excellence in their academic journey.
