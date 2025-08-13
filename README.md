@@ -81,3 +81,31 @@ Following that, Dr. Parinder Singh, Dean of Student Welfare, addressed the stude
 3. Lecture by Dr. Randhir Singh (On Conduct of Examination)
 
 The final lecture of the day was delivered by Dr. Randhir Singh, who spoke about the rules and regulations related to the conduct of examinations. He explained the examination pattern, grading system, internal assessments, and code of conduct during exams. He also emphasized the importance of academic integrity and maintaining discipline during assessments.
+# Day-8
+Day 8 of the induction program continued with subject orientation sessions aimed at strengthening the foundational understanding of core subjects. The lectures were conducted by respected faculty members from the departments of Chemistry and English.
+
+1. Chemistry Lecture by Prof. Mandeep Kaur
+
+The day commenced with a lecture on Chemistry by Prof. Mandeep Kaur. She covered important introductory concepts and applications relevant to engineering students. Her session included:
+
+A quick review of basic chemical principles
+
+Real-world applications of chemistry in engineering fields
+
+Importance of chemistry in solving technical and environmental challenges
+
+
+The lecture was interactive, with students encouraged to ask questions and share their thoughts, helping to build a strong conceptual foundation.
+
+2. English Lecture by Prof. Nisha
+
+The second session of the day was delivered by Prof. Nisha, who continued her introduction to the subject of English and Communication Skills. She emphasized:
+
+The role of English in academic and professional settings
+
+Importance of communication, presentation, and interpersonal skills
+
+A continuation of student self-introductions to build confidence and class interaction
+
+
+Her engaging teaching style created a comfortable atmosphere for students to participate and express themselves.
