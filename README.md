@@ -17,7 +17,7 @@ Further, the students had the opportunity to interact with Shri Ashok Singla, Fi
 
 The entire day was a beautiful blend of motivation,interaction and institutional pride, providing the students of CSE and IT branches a powerful start to their professional and academic lives.
 
-#Day-2
+# Day-2
 On August 2, 2025, Guru Nanak Dev Engineering College successfully conducted Day 3 of the Student Induction Program for the first-year students of Information Technology and Computer Science and Engineering branches. The event was held in the college auditorium and witnessed a series of insightful and engaging sessions aimed at nurturing the academic and ethical foundation of the newly admitted students.
 The highlight of the day was the address by the Chief Guest, Sardar Gurcharan Singh Grewal, member  Shiromani Gurdwara Parbandhak Committee (SGPC) and a respected member of the Nankana Sahib Education Trust. His motivational words encouraged students to stay grounded in values while aspiring for excellence in their academic journey.
 The day began with an enlightening session by Dr. Jaswinder Singh, a Siksharatan Awardee, who captivated the audience with live experiments and innovative approaches to teaching and learning. His interactive method of presentation brought an engaging and joyful learning experience for the students, leaving a lasting impression.
